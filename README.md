@@ -4,7 +4,8 @@
 
 This is a simple calculator which performs addition, subtraction, multiplication and division.
 
-<img width="530" height="581" alt="image" src="https://github.com/user-attachments/assets/d1c28dd2-4d31-426e-b800-7c3e6b3ea2d8" />
+<img width="510" height="624" alt="image" src="https://github.com/user-attachments/assets/3f688c47-3008-4573-bf8a-4f8b97c422a6" />
+
 
 
 ## Getting Started
@@ -19,7 +20,8 @@ git clone git@github.com:aurobindodebnath/Calculator-in-JS.git
 ```
 6. Press Enter. Your local clone will be created.
 
-
+##Acknowledgement
+Created by Tanniru Nagendra in Jul 2025
 
 
 
